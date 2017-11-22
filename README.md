@@ -11,12 +11,12 @@ Material recopilado del GitHub de ![Xoan Sampaiño](https://github.com/xoan) y !
   
 Descripción         | imagen          | archivo         
 ------------- | ------------- | ------------- 
-Sujeción bola trasera|![BallCaster.stl](imagenes/BallCaster.png) | [BallCaster.stl](archivo-stl/BallCaster.stl) 
-Sujeción batería|![BatteryBracket.stl](imagenes/BatteryBracket.png) | [BatteryBracket.stl](archivo-stl/BatteryBracket.stl) 
-Sujeción motores|![MotorBracket.stl](imagenes/MotorBracket.png) | [MotorBracket.stl](archivo-stl/MotorBracket.stl) 
-Rueda x2|![WheelNG.stl](imagenes/WheelNG.png) | [WheelNG.stl](archivo-stl/WheelNG.stl) 
-Sujeción rotoboard 170 puntos|![Addon-EscornaCPUBracket.stl](imagenes/Addon-EscornaCPUBracket.png) | [Addon-EscornaCPUBracket.stl](archivo-stl/Addon-EscornaCPUBracket.stl)
-Sujeción placa botonera|![Addon-KeypadBracket-PCB.stl](imagenes/Addon-KeypadBracket-PCB.png) | [Addon-KeypadBracket-PCB.stl](archivo-stl/Addon-KeypadBracket-PCB.stl)
+Sujeción bola trasera|![BallCaster.stl](imagenes/BallCaster.png) | [BallCaster.stl](archivos-stl/BallCaster.stl) 
+Sujeción batería|![BatteryBracket.stl](imagenes/BatteryBracket.png) | [BatteryBracket.stl](archivos-stl/BatteryBracket.stl) 
+Sujeción motores|![MotorBracket.stl](imagenes/MotorBracket.png) | [MotorBracket.stl](archivos-stl/MotorBracket.stl) 
+Rueda x2|![WheelNG.stl](imagenes/WheelNG.png) | [WheelNG.stl](archivos-stl/WheelNG.stl) 
+Sujeción rotoboard 170 puntos|![Addon-EscornaCPUBracket.stl](imagenes/Addon-EscornaCPUBracket.png) | [Addon-EscornaCPUBracket.stl](archivos-stl/Addon-EscornaCPUBracket.stl)
+Sujeción placa botonera|![Addon-KeypadBracket-PCB.stl](imagenes/Addon-KeypadBracket-PCB.png) | [Addon-KeypadBracket-PCB.stl](archivos-stl/Addon-KeypadBracket-PCB.stl)
   
   
   
@@ -26,7 +26,7 @@ En mi caso no monto la pieza sujeción interruptor. Dejo los cables para conecta
 
 Descripción         | Imagen          | Archivo          
 ------------- | ------------- | ------------- 
-Sujeción interruptor|![Addon-SwitchHolder.stl](imagenes/Addon-SwitchHolder.png) | [Addon-SwitchHolder.stl](archivo-stl/Addon-SwitchHolder.stl)
+Sujeción interruptor|![Addon-SwitchHolder.stl](imagenes/Addon-SwitchHolder.png) | [Addon-SwitchHolder.stl](archivos-stl/Addon-SwitchHolder.stl)
   
   
   
@@ -36,9 +36,9 @@ Algunas piezas van evolucionando, te dejo las versiones nuevas de las ruedas o l
 
 Descripción         | Imagen          | Archivo          
 ------------- | ------------- | ------------- 
-Sujeción bola v2|![ballcaster-v2.stl](imagenes/ballcaster-v2.png) | [ballcaster-v2.stl](archivo-stl/Addon-SwitchHolder.stl) 
-Rueda izquierda|![wheel-l.stl](imagenes/wheel-l.png) | [wheel-l.stl](archivo-stl/wheel-l.stl) 
-Rueda derecha|![wheel-R.stl](imagenes/wheel-R.png) | [wheel-R.stl](archivo-stl/wheel-R.stl) 
+Sujeción bola v2|![ballcaster-v2.stl](imagenes/ballcaster-v2.png) | [ballcaster-v2.stl](archivos-stl/Addon-SwitchHolder.stl) 
+Rueda izquierda|![wheel-l.stl](imagenes/wheel-l.png) | [wheel-l.stl](archivos-stl/wheel-l.stl) 
+Rueda derecha|![wheel-R.stl](imagenes/wheel-R.png) | [wheel-R.stl](archivos-stl/wheel-R.stl) 
   
   
   
