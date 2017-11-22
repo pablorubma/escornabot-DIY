@@ -1,6 +1,6 @@
 # Escornabot DIY
-Material recopilado del GitHub de [Xoan Sampaiño](https://github.com/xoan) y [Rafa Couto](https://github.com/rafacouto)
-Modelo escornabot DIY basado en https://github.com/escornabot/3dmodel  
+Material recopilado de [Xoan Sampaiño](https://github.com/xoan) y [Rafa Couto](https://github.com/rafacouto)  
+Basado en https://github.com/escornabot/3dmodel  
   
   
 ![Escornabot DIY](imagenes/Escornabot-DIY.jpg)
