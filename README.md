@@ -38,7 +38,7 @@ Descripción         | Imagen          | Archivo
 ------------- | ------------- | ------------- 
 Sujeción bola v2|![ballcaster-v2.stl](imagenes/ballcaster-v2.png) | [ballcaster-v2.stl](archivos-stl/ballcaster-v2.stl) 
 Rueda izquierda|![wheel-l.stl](imagenes/wheel-l.png) | [wheel-l.stl](archivos-stl/wheel-l.stl) 
-Rueda derecha|![wheel-R.stl](imagenes/wheel-R.png) | [wheel-R.stl](archivos-stl/wheel-R.stl) 
+Rueda derecha|![wheel-r.stl](imagenes/wheel-r.png) | [wheel-R.stl](archivos-stl/wheel-r.stl) 
   
   
   
