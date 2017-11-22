@@ -52,4 +52,4 @@ Guía de montaje sin incluir ensamblaje de botonera, de la web original del proy
 
 Como comprobar la lectura de la botonera para luego modificar los valores en el archivo configuration.h - [Comprobación botonera](https://escornabot.com/web/es/content/comprobacion-y-configuracion-de-las-lecturas-de-botonera)
 
-Diferentes versiones de ![Rafa Couto](https://github.com/rafacouto) realizadas hasta ahora [Versiones arduino para escornabot](https://github.com/escornabot/arduino/releases)
+Diferentes versiones de ![Rafa Couto](https://github.com/rafacouto) realizadas hasta ahora [Versiones arduino para escornabot](https://github.com/escornabot/arduino/releases) 
