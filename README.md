@@ -4,7 +4,7 @@ Material recopilado de [Xoan Sampaiño](https://github.com/xoan) y [Rafa Couto](
 Basado en https://github.com/escornabot/3dmodel  
   
   
-![Escornabot DIY](imagenes/Escornabot-DIY.jpg)
+![Escornabot DIY](imagenes/EscornabotDIY.jpg)
   
   
   
