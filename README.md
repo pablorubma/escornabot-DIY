@@ -33,6 +33,8 @@ Algunas piezas van evolucionando, te dejo las versiones nuevas de las ruedas o l
 Descripción         | Imagen          | Archivo          
 ------------- | ------------- | ------------- 
 Sujeción bola v2|![ballcaster-v2.stl](imagenes/ballcaster-v2.png) | [ballcaster-v2.stl](archivo-stl/Addon-SwitchHolder.stl) 
+Rueda izquierda|![wheel-l.stl](imagenes/wheel-l.png) | [wheel-l.stl](archivo-stl/wheel-l.stl) 
+Rueda derecha|![wheel-R.stl](imagenes/wheel-R.png) | [wheel-R.stl](archivo-stl/wheel-R.stl) 
   
 # Guías y manuales
   
