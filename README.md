@@ -24,15 +24,16 @@ En mi caso no monto la pieza sujeción interruptor. Dejo los cables para conecta
 
 Descripción         | Imagen          | Archivo          
 ------------- | ------------- | ------------- 
-Sujeción interruptor|![ballcaster-v2.stl](imagenes/ballcaster-v2.png) | [ballcaster-v2.stl](STL/Addon-SwitchHolder.stl) 
-  
+Sujeción interruptor|![Addon-SwitchHolder.stl](imagenes/Addon-SwitchHolder.png) | [Addon-SwitchHolder.stl](STL/Addon-SwitchHolder.stl)
+
 ### Diseños nuevos de las piezas
   
 Algunas piezas van evolucionando, te dejo las versiones nuevas de las ruedas o la sujeción de la bola.
 
 Descripción         | Imagen          | Archivo          
 ------------- | ------------- | ------------- 
-Sujeción bola v2|![Addon-SwitchHolder.stl](imagenes/Addon-SwitchHolder.png) | [Addon-SwitchHolder.stl](STL/Addon-SwitchHolder.stl)
+Sujeción bola v2|![ballcaster-v2.stl](imagenes/ballcaster-v2.png) | [ballcaster-v2.stl](STL/Addon-SwitchHolder.stl) 
+  
 # Guías y manuales
   
 Guía de montaje del CFR Ferrol, es en la que me basé yo para montar mi primer escornabot. Tienes instrucciones para montar la botonera - ![Guía montaje CFR Ferrol](https://www.edu.xunta.gal/centros/cfrferrol/aulavirtual2/pluginfile.php/18631/mod_resource/content/0/doc/Proxecto_K-KuriBOT_CFR_FERROL.pdf)
