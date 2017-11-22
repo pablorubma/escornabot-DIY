@@ -6,8 +6,6 @@ Modelo escornabot DIY basado en https://github.com/escornabot/3dmodel
 
 # PIEZAS IMPRESAS 3D NECESARIAS
 
-![Escornabot DIY](imagenes/Piezas-DIY.jpg)
-
 Descripción         | imagen          | archivo         
 ------------- | ------------- | ------------- 
 Sujeción bola trasera|!(imagenes/BallCaster.png) | [BallCaster.stl](STL/BallCaster.stl) 
