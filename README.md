@@ -8,7 +8,7 @@ Modelo escornabot DIY basado en https://github.com/escornabot/3dmodel
 
 Descripción         | imagen          | archivo         
 ------------- | ------------- | ------------- 
-Sujeción bola trasera|!(imagenes/BallCaster.png) | [BallCaster.stl](STL/BallCaster.stl) 
+Sujeción bola trasera|![BallCaster.stl](imagenes/BallCaster.png) | [BallCaster.stl](STL/BallCaster.stl) 
 Sujeción batería|![BatteryBracket.stl](imagenes/BatteryBracket.png) | [BatteryBracket.stl](STL/BatteryBracket.stl) 
 Sujeción motores|![MotorBracket.stl](imagenes/MotorBracket.png) | [MotorBracket.stl](STL/MotorBracket.stl) 
 Rueda x2|![WheelNG.stl](imagenes/WheelNG.png) | [WheelNG.stl](STL/WheelNG.stl) 
