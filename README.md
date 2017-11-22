@@ -3,7 +3,7 @@ Modelo escornabot DIY basado en https://github.com/escornabot/3dmodel
 
 ## Piezas impresas 3D necesarias
 
-![Escornabot Brivoi Compactus](img/Brivoi.png)
+![Escornabot Brivoi Compactus](img/escornabot-diy.png)
 
 
 Descripción         | imagen          | archivo         
