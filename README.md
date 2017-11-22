@@ -1,4 +1,4 @@
-# ESCORNABOT DIY
+# Escornabot DIY
 Modelo escornabot DIY basado en https://github.com/escornabot/3dmodel  
   
 Material recopilado del GitHub de ![Xoan Sampaiño](https://github.com/xoan) y ![Rafa Couto](https://github.com/rafacouto)
@@ -6,7 +6,8 @@ Material recopilado del GitHub de ![Xoan Sampaiño](https://github.com/xoan) y !
 ![Escornabot DIY](imagenes/Escornabot-DIY.jpg)
   
   
-# PIEZAS IMPRESAS 3D NECESARIAS
+  
+# Piezas Impresas3D Necesarias
   
 Descripción         | imagen          | archivo         
 ------------- | ------------- | ------------- 
@@ -18,6 +19,7 @@ Sujeción rotoboard 170 puntos|![Addon-EscornaCPUBracket.stl](imagenes/Addon-Esc
 Sujeción placa botonera|![Addon-KeypadBracket-PCB.stl](imagenes/Addon-KeypadBracket-PCB.png) | [Addon-KeypadBracket-PCB.stl](archivo-stl/Addon-KeypadBracket-PCB.stl)
   
   
+  
 ### Opcional
   
 En mi caso no monto la pieza sujeción interruptor. Dejo los cables para conectar macho con hembra para enseñar a los peques la conexión de los cables.
@@ -25,8 +27,10 @@ En mi caso no monto la pieza sujeción interruptor. Dejo los cables para conecta
 Descripción         | Imagen          | Archivo          
 ------------- | ------------- | ------------- 
 Sujeción interruptor|![Addon-SwitchHolder.stl](imagenes/Addon-SwitchHolder.png) | [Addon-SwitchHolder.stl](archivo-stl/Addon-SwitchHolder.stl)
-
-### Diseños nuevos de las piezas
+  
+  
+  
+### Diseños de piezas nuevos
   
 Algunas piezas van evolucionando, te dejo las versiones nuevas de las ruedas o la sujeción de la bola.
 
@@ -35,6 +39,8 @@ Descripción         | Imagen          | Archivo
 Sujeción bola v2|![ballcaster-v2.stl](imagenes/ballcaster-v2.png) | [ballcaster-v2.stl](archivo-stl/Addon-SwitchHolder.stl) 
 Rueda izquierda|![wheel-l.stl](imagenes/wheel-l.png) | [wheel-l.stl](archivo-stl/wheel-l.stl) 
 Rueda derecha|![wheel-R.stl](imagenes/wheel-R.png) | [wheel-R.stl](archivo-stl/wheel-R.stl) 
+  
+  
   
 # Guías y manuales
   
