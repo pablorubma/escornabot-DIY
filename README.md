@@ -21,4 +21,3 @@ Sujeción placa botonera|![Addon-KeypadBracket-PCB.stl](imagenes/Addon-KeypadBra
 Descripción         | Imagen          | Archivo          
 ------------- | ------------- | ------------- 
 Sujeción interruptor|![Addon-SwitchHolder.stl](imagenes/Addon-SwitchHolder.png) | [Addon-SwitchHolder.stl](STL/Addon-SwitchHolder.stl) 
-
