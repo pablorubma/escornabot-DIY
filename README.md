@@ -44,12 +44,12 @@ Rueda derecha|![wheel-R.stl](imagenes/wheel-R.png) | [wheel-R.stl](archivo-stl/w
   
 # Guías y manuales
   
-Guía de montaje del CFR Ferrol, es en la que me basé yo para montar mi primer escornabot. Tienes instrucciones para montar la botonera - ![Guía montaje CFR Ferrol](https://www.edu.xunta.gal/centros/cfrferrol/aulavirtual2/pluginfile.php/18631/mod_resource/content/0/doc/Proxecto_K-KuriBOT_CFR_FERROL.pdf)
+Guía de montaje del CFR Ferrol, es en la que me basé yo para montar mi primer escornabot. Tienes instrucciones para montar la botonera - [Guía montaje CFR Ferrol](https://www.edu.xunta.gal/centros/cfrferrol/aulavirtual2/pluginfile.php/18631/mod_resource/content/0/doc/Proxecto_K-KuriBOT_CFR_FERROL.pdf)
 
-Listado de materiales necesarios para montar tu escornabot, es de la web original y tienes todos los componentes que te haran falta para poner al pequeñajo a caminar - ![Listado materiales](http://escornabot.org/wiki/index.php/Lista_de_materiales_(Brivoi))
+Listado de materiales necesarios para montar tu escornabot, es de la web original y tienes todos los componentes que te haran falta para poner al pequeñajo a caminar - [Listado materiales](http://escornabot.org/wiki/index.php/Lista_de_materiales_(Brivoi))
 
-Guía de montaje sin incluir ensamblaje de botonera, de la web original del proyecto escornabot - ![Guía montaje](http://escornabot.org/wiki/index.php/Gu%C3%ADa_de_montaje_(Brivoi))
+Guía de montaje sin incluir ensamblaje de botonera, de la web original del proyecto escornabot - [Guía montaje](http://escornabot.org/wiki/index.php/Gu%C3%ADa_de_montaje_(Brivoi))
 
-Como comprobar la lectura de la botonera para luego modificar los valores en el archivo configuration.h - ![Comprobación botonera](https://escornabot.com/web/es/content/comprobacion-y-configuracion-de-las-lecturas-de-botonera)
+Como comprobar la lectura de la botonera para luego modificar los valores en el archivo configuration.h - [Comprobación botonera](https://escornabot.com/web/es/content/comprobacion-y-configuracion-de-las-lecturas-de-botonera)
 
-Diferentes versiones de ![Rafa Couto](https://github.com/rafacouto) realizadas hasta ahora ![Versiones arduino para escornabot](https://github.com/escornabot/arduino/releases)
+Diferentes versiones de ![Rafa Couto](https://github.com/rafacouto) realizadas hasta ahora [Versiones arduino para escornabot](https://github.com/escornabot/arduino/releases)
