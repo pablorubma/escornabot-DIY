@@ -12,11 +12,12 @@ Basado en https://github.com/escornabot/3dmodel
   
 Descripción         | imagen          | archivo         
 ------------- | ------------- | ------------- 
-Sujeción bola trasera|![BallCaster.stl](imagenes/BallCaster.png) | [BallCaster.stl](archivos-stl/BallCaster.stl) 
-Sujeción batería|![BatteryBracket.stl](imagenes/BatteryBracket.png) | [BatteryBracket.stl](archivos-stl/BatteryBracket.stl) 
+Sujeción bola v2|![ballcaster-v2.stl](imagenes/ballcaster-v2.png) | [ballcaster-v2.stl](archivos-stl/ballcaster-v2.stl) 
+Sujeción batería|![battery-bracket.stl](imagenes/BatteryBracket.png) | [battery-bracket.stl](archivos-stl/battery-bracket.stl) 
 Sujeción motores|![MotorBracket.stl](imagenes/MotorBracket.png) | [MotorBracket.stl](archivos-stl/MotorBracket.stl) 
-Rueda x2|![WheelNG.stl](imagenes/WheelNG.png) | [WheelNG.stl](archivos-stl/WheelNG.stl) 
-Sujeción protoboard 170 puntos|![Addon-EscornaCPUBracket.stl](imagenes/Addon-EscornaCPUBracket.png) | [Addon-EscornaCPUBracket.stl](archivos-stl/Addon-EscornaCPUBracket.stl)
+Rueda izquierda|![wheel-l.stl](imagenes/wheel-l.png) | [wheel-l.stl](archivos-stl/wheel-l.stl) 
+Rueda derecha|![wheel-r.stl](imagenes/wheel-R.png) | [wheel-R.stl](archivos-stl/wheel-r.stl) 
+Sujeción protoboard 170 puntos|![board-bracket.stl](imagenes/Addon-EscornaCPUBracket.png) | [board-bracket.stl](archivos-stl/board-bracket.stl)
 Sujeción placa botonera|![Addon-KeypadBracket-PCB.stl](imagenes/Addon-KeypadBracket-PCB.png) | [Addon-KeypadBracket-PCB.stl](archivos-stl/Addon-KeypadBracket-PCB.stl)
   
   
@@ -31,15 +32,15 @@ Sujeción interruptor|![Addon-SwitchHolder.stl](imagenes/Addon-SwitchHolder.png)
   
   
   
-### Diseños de piezas nuevos
+### Diseños de piezas antiguas
   
-Algunas piezas van evolucionando, te dejo las versiones nuevas de las ruedas o la sujeción de la bola.
+Algunas piezas van evolucionando, te dejo las versiones viejas para que las tengas a mano
 
 Descripción         | Imagen          | Archivo          
 ------------- | ------------- | ------------- 
-Sujeción bola v2|![ballcaster-v2.stl](imagenes/ballcaster-v2.png) | [ballcaster-v2.stl](archivos-stl/ballcaster-v2.stl) 
-Rueda izquierda|![wheel-l.stl](imagenes/wheel-l.png) | [wheel-l.stl](archivos-stl/wheel-l.stl) 
-Rueda derecha|![wheel-r.stl](imagenes/wheel-R.png) | [wheel-R.stl](archivos-stl/wheel-r.stl) 
+Sujeción bola trasera|![BallCaster.stl](imagenes/BallCaster.png) | [BallCaster.stl](archivos-stl/BallCaster.stl)
+Rueda x2|![WheelNG.stl](imagenes/WheelNG.png) | [WheelNG.stl](archivos-stl/WheelNG.stl) 
+
   
   
   
