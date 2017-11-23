@@ -1,3 +1,5 @@
+# AVISO!! En construcción, estos días retocaré muchas cosas aunque lo esencial siempre lo tendrás a mano :P
+  
 # Escornabot DIY  
   
 Material recopilado de [Xoan Sampaiño](https://github.com/xoan) y [Rafa Couto](https://github.com/rafacouto)  
