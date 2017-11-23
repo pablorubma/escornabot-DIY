@@ -15,11 +15,11 @@ Basado en https://github.com/escornabot/3dmodel
 Descripción         | imagen          | archivo         
 ------------- | ------------- | ------------- 
 Sujeción bola v2|![ballcaster-v2.stl](imagenes/ballcaster-v2.png) | [ballcaster-v2.stl](archivos-stl/ballcaster-v2.stl) 
-Sujeción batería|![battery-bracket.stl](imagenes/BatteryBracket.png) | [battery-bracket.stl](archivos-stl/battery-bracket.stl) 
+Sujeción batería|![battery-bracket.stl](imagenes/battery-bracket.png) | [battery-bracket.stl](archivos-stl/battery-bracket.stl) 
 Sujeción motores|![MotorBracket.stl](imagenes/MotorBracket.png) | [MotorBracket.stl](archivos-stl/MotorBracket.stl) 
 Rueda izquierda|![wheel-l.stl](imagenes/wheel-l.png) | [wheel-l.stl](archivos-stl/wheel-l.stl) 
 Rueda derecha|![wheel-r.stl](imagenes/wheel-R.png) | [wheel-R.stl](archivos-stl/wheel-r.stl) 
-Sujeción protoboard 170 puntos|![board-bracket.stl](imagenes/Addon-EscornaCPUBracket.png) | [board-bracket.stl](archivos-stl/board-bracket.stl)
+Sujeción protoboard 170 puntos|![board-bracket.stl](imagenes/board-bracket.png) | [board-bracket.stl](archivos-stl/board-bracket.stl)
 Sujeción placa botonera|![Addon-KeypadBracket-PCB.stl](imagenes/Addon-KeypadBracket-PCB.png) | [Addon-KeypadBracket-PCB.stl](archivos-stl/Addon-KeypadBracket-PCB.stl)
   
   
