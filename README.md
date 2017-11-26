@@ -2,7 +2,7 @@
   
 # Escornabot DIY  
   
-Material recopilado de [Xoan Sampaiño](https://github.com/xoan), [Rafa Couto](https://github.com/rafacouto), [XDeSIG](https://github.com/xdesig) y [mgesteiro](https://github.com/mgesteiro)   
+Material recopilado de [Xoan Sampaiño](https://github.com/xoan), [Rafa Couto](https://github.com/rafacouto), [XDeSIG](https://github.com/xdesig), [Jorge Lobo Martínez](https://github.com/lobotic) y [mgesteiro](https://github.com/mgesteiro)   
   
 Web oficial del robot escornabot http://escornabot.com
   
@@ -45,9 +45,9 @@ Rueda x2|![WheelNG.stl](imagenes/WheelNG.png) | [WheelNG.stl](archivos-stl/Wheel
   
   
   
-# Placa Botonera XDeSIG 
+# Placa Botonera [XDeSIG](https://github.com/xdesig)
   
-Una de las partes más problemática es la placa botonera. Eso se soluciona con la PCB diseñada por [XDeSIG](https://github.com/xdesig)
+La parte más problemática es la botonera. Eso se soluciona con la PCB diseñada por [XDeSIG](https://github.com/xdesig)
 
 ![Placa XDeSIG](imagenes/Placa-XDeSIG.jpg)
   
@@ -69,6 +69,21 @@ Descripción         | Imagen          | Archivo
 Sujeción placa botonera XDeSIG|![Addon-KeypadBracket-5Buttons.stl](imagenes/Addon-KeypadBracket-5Buttons.png) | [Addon-KeypadBracket-5Buttons.stl](archivos-stl/Addon-KeypadBracket-5Buttons.stl)
 Cubierta botonera XDeSIG|![Addon-KeypadCover.stl](imagenes/Addon-KeypadCover.png) | [Addon-KeypadCover.stl](archivos-stl/Addon-KeypadCover.stl)
 Botones XDeSIG|![Addon-KeypadButtons-Graphics.stl](imagenes/Addon-KeypadButtons-Graphics.png) | [Addon-KeypadButtons-Graphics.stl](archivos-stl/Addon-KeypadButtons-Graphics.stl)
+  
+  
+  
+# Bluetooth y manejo mediante app android [Jorge Lobo Martínez](https://github.com/lobotic)
+  
+Puedes ponerle Bluetooth a tu escornabot. Solo necesitas leer el artículo de Jorge en su blog https://ceipmiskatonic.blogspot.com.es/2015/07/usando-el-escornabot-por-bt.html
+  
+  
+  
+# MUWI uso mediante Wifi con módulo ESP-01 [mgesteiro](https://github.com/mgesteiro) 
+  
+Solo he probado MUWI con la versión escornabot que lleva la placa v 2.12, no lo he probado con la versión DIY.
+
+De todos modos, os dejo el enlace al repositorio de Miguel donde podeis encontrar toda la información para que lo tengáis a mano.
+https://github.com/mgesteiro/escornabot-MUWi
   
   
   
