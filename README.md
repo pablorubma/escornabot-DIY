@@ -2,7 +2,10 @@
   
 # Escornabot DIY  
   
-Material recopilado de [Xoan Sampaiño](https://github.com/xoan),[Rafa Couto](https://github.com/rafacouto), [XDeSIG](https://github.com/xdesig) y [mgesteiro](https://github.com/mgesteiro)     
+Material recopilado de [Xoan Sampaiño](https://github.com/xoan), [Rafa Couto](https://github.com/rafacouto), [XDeSIG](https://github.com/xdesig) y [mgesteiro](https://github.com/mgesteiro)   
+  
+Web oficial del robot escornabot http://escornabot.com
+  
   
 ![Escornabot DIY](imagenes/EscornabotDIY.jpg)
   
