@@ -42,7 +42,23 @@ Descripción         | Imagen          | Archivo
 ------------- | ------------- | ------------- 
 Sujeción bola trasera|![BallCaster.stl](imagenes/BallCaster.png) | [BallCaster.stl](archivos-stl/BallCaster.stl)
 Rueda x2|![WheelNG.stl](imagenes/WheelNG.png) | [WheelNG.stl](archivos-stl/WheelNG.stl) 
+  
+  
+  
+# Placa Botonera  
+  
+Una de las partes más problemática es la placa botonera. Eso se soluciona con la PCB diseñada por [XDeSIG](https://github.com/xdesig)
 
+![Placa XDeSIG](imagenes/Placa-XDeSIG.jpg)
+  
+La puedes pedir aquí - [Placa XDeSIG en PCBWay](https://www.pcbway.com/project/shareproject/W50475ASN5_Escorna_bot_2_1_Gerber.html)
+
+Estos son los materiales que necesitas soldar en la placa:
+
+- 5 resistencias 10k
+- 1 resistencia 22k
+- Pines acodados
+- 5 botones 12mm (también puedes poner los pequeños)
   
   
   
