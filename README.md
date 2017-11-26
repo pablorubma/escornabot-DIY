@@ -21,7 +21,7 @@ Sujeción motores|![MotorBracket.stl](imagenes/MotorBracket.png) | [MotorBracket
 Sujeción protoboard 170 puntos|![board-bracket.stl](imagenes/board-bracket.png) | [board-bracket.stl](archivos-stl/board-bracket.stl)  
 Sujeción placa botonera|![Addon-KeypadBracket-PCB.stl](imagenes/Addon-KeypadBracket-PCB.png) | [Addon-KeypadBracket-PCB.stl](archivos-stl/Addon-KeypadBracket-PCB.stl)  
 Rueda izquierda|![wheel-l.stl](imagenes/wheel-l.png) | [wheel-l.stl](archivos-stl/wheel-l.stl)  
-Rueda derecha|![wheel-r.stl](imagenes/wheel-R.png) | [wheel-R.stl](archivos-stl/wheel-r.stl)  
+Rueda derecha|![wheel-r.stl](imagenes/wheel-r.png) | [wheel-r.stl](archivos-stl/wheel-r.stl)  
   
   
 ### Opcional
@@ -45,7 +45,7 @@ Rueda x2|![WheelNG.stl](imagenes/WheelNG.png) | [WheelNG.stl](archivos-stl/Wheel
   
   
   
-# Placa Botonera  
+# Placa Botonera XDeSIG 
   
 Una de las partes más problemática es la placa botonera. Eso se soluciona con la PCB diseñada por [XDeSIG](https://github.com/xdesig)
 
@@ -59,6 +59,12 @@ Estos son los materiales que necesitas soldar en la placa:
 - 1 resistencia 22k
 - Pines acodados
 - 5 botones 12mm (también puedes poner los pequeños)
+  
+### Para esta placa necesitas imprimir esta sujeción de placa
+  
+Descripción         | Imagen          | Archivo          
+------------- | ------------- | ------------- 
+Sujeción placa botonera XDeSIG|![Addon-KeypadBracket-5Buttons.stl](imagenes/Addon-KeypadBracket-5Buttons.png) | [Addon-KeypadBracket-5Buttons.stl](archivos-stl/Addon-KeypadBracket-5Buttons.stl)
   
   
   
