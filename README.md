@@ -62,9 +62,13 @@ Estos son los materiales que necesitas soldar en la placa:
   
 ### Para esta placa necesitas imprimir esta sujeción de placa
   
+Puedes ponerle carcasa :)
+  
 Descripción         | Imagen          | Archivo          
 ------------- | ------------- | ------------- 
 Sujeción placa botonera XDeSIG|![Addon-KeypadBracket-5Buttons.stl](imagenes/Addon-KeypadBracket-5Buttons.png) | [Addon-KeypadBracket-5Buttons.stl](archivos-stl/Addon-KeypadBracket-5Buttons.stl)
+Cubierta botonera XDeSIG|![Addon-KeypadCover.stl](imagenes/Addon-KeypadCover.png) | [Addon-KeypadCover.stl](archivos-stl/Addon-KeypadCover.stl)
+Botones XDeSIG|![Addon-KeypadButtons-Graphics.stl](imagenes/Addon-KeypadButtons-Graphics.png) | [Addon-KeypadButtons-Graphics.stl](archivos-stl/Addon-KeypadButtons-Graphics.stl)
   
   
   
