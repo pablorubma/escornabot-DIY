@@ -80,10 +80,10 @@ Puedes ponerle Bluetooth a tu escornabot. Solo necesitas leer el artículo de Jo
   
 # MUWI uso mediante Wifi con módulo ESP-01 [mgesteiro](https://github.com/mgesteiro) 
   
-Solo he probado MUWI con la versión escornabot que lleva la placa v 2.12, no lo he probado con la versión DIY.
+Con la placa escornabot v 2.12 va muy bien, con la versión DIY todavía no he probado.
 
 De todos modos, os dejo el enlace al repositorio de Miguel donde podeis encontrar toda la información para que lo tengáis a mano.
-https://github.com/mgesteiro/escornabot-MUWi
+https://github.com/escornabot/esp-muwi
   
   
   
