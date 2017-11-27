@@ -60,9 +60,9 @@ Estos son los materiales que necesitas soldar en la placa:
 - Pines acodados
 - 5 botones 12mm (también puedes poner los pequeños)
   
-### Para esta placa necesitas imprimir esta sujeción de placa
+### Para esta placa necesitas imprimir una sujeción concreta
   
-Puedes ponerle carcasa :)
+También tiene carcasa :)
   
 Descripción         | Imagen          | Archivo          
 ------------- | ------------- | ------------- 
