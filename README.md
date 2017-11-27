@@ -98,3 +98,22 @@ Guía de montaje sin incluir ensamblaje de botonera, web original escornabot - [
 Como comprobar la lectura de la botonera para luego modificar los valores en el archivo "configuration.h" - [Comprobación botonera](https://escornabot.com/web/es/content/comprobacion-y-configuracion-de-las-lecturas-de-botonera)
 
 Diferentes versiones de ![Rafa Couto](https://github.com/rafacouto) realizadas hasta ahora [Versiones arduino para escornabot](https://github.com/escornabot/arduino/releases)  
+  
+  
+  
+# Recursos y materiales
+
+En la wiki del proyecto oficial tienes un apartado dedicado a recursos donde puedes encontrar actividades o tableros para escornabot [Recursos Wiki Oficial](http://escornabot.org/wiki/index.php/Recursos)
+  
+Un imprescindible es el Blog de [Jorge Lobo Martínez](https://github.com/lobotic), donde comparte las actividades que hace en clase. Te dejo enlace a la sección donde trata cosas de escornabot pero revisa el blog completo porque mola mucho - [Blog Lobotic](http://ceipmiskatonic.blogspot.com.es/search/label/Escornabot)
+  
+  
+  
+# Para solucionar dudas y problemas
+
+Si tienes cualquier duda puedes abrir un tema en el grupo creado en google y entre todos te ayudaremos :)
+https://groups.google.com/forum/#!forum/escornabot_users
+  
+  
+  
+## Bienvenid@ al lado escornabot de la fuerza muahahaha  
