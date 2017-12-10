@@ -10,7 +10,7 @@ Vamos a describir uno tras otros todos los pasos a seguir para montar la versió
   
   
   
-# 1.Piezas Impresas3D Necesarias
+# 1. Piezas Impresas3D Necesarias
   
 Descripción         | imagen          | archivo         
 ------------- | ------------- | ------------- 
@@ -30,17 +30,6 @@ En mi caso, no monto la pieza "sujeción interruptor". Dejo los cables para cone
 Descripción         | Imagen          | Archivo          
 ------------- | ------------- | ------------- 
 Sujeción interruptor|![Addon-SwitchHolder.stl](imagenes/Addon-SwitchHolder.png) | [Addon-SwitchHolder.stl](archivos-stl/Addon-SwitchHolder.stl)
-  
-  
-  
-### 1.2 Diseños de piezas antiguas
-  
-Algunas piezas van evolucionando, te dejo las versiones viejas para que las tengas a mano
-
-Descripción         | Imagen          | Archivo          
-------------- | ------------- | ------------- 
-Sujeción bola trasera|![BallCaster.stl](imagenes/BallCaster.png) | [BallCaster.stl](archivos-stl/BallCaster.stl)
-Rueda x2|![WheelNG.stl](imagenes/WheelNG.png) | [WheelNG.stl](archivos-stl/WheelNG.stl) 
   
   
   
