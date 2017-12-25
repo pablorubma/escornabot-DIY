@@ -90,6 +90,7 @@ __*Recuerda, una vez montada tienes que [comprobar y configurar las lecturas de 
 2 – Tuercas M3 (para las ruedas)  
 1 – **Canica de 14mm** (si te gustan las de la carita, busca “bola 14mm smile”)  
   
+Si eres curios@ y quieres comprarlos por tu cuenta estoy creando una [lista de componentes](https://github.com/pablorubma/escornabot-DIY/tree/master/componentes)
   
   
 # 3. Montaje del cuerpo
@@ -172,6 +173,8 @@ Diferentes versiones de ![Rafa Couto](https://github.com/rafacouto) realizadas h
 En la wiki del proyecto oficial tienes un apartado dedicado a recursos donde puedes encontrar actividades o tableros para escornabot [Recursos Wiki Oficial](http://escornabot.org/wiki/index.php/Recursos)
   
 Un imprescindible es el Blog de [Jorge Lobo Martínez](https://github.com/lobotic), donde comparte las actividades que hace en clase. Te dejo enlace a la sección donde trata cosas de escornabot pero revisa el blog completo porque mola mucho - [Blog Lobotic](http://ceipmiskatonic.blogspot.com.es/search/label/Escornabot)
+  
+Puedes disfrazar a tu pequeñajo [Disfraz Escornabot](https://github.com/pablorubma/escornabot-DIY/tree/master/disfraces)
   
   
   
