@@ -11,7 +11,7 @@ Los componentes detallados los puedes encontrar [aquí](https://github.com/pablo
 ## Ensamblaje motores
   
 Material necesario:
-* *Pieza MotorBracket*
+* *Pieza "MotorBracket"*
 * *2 Motores paso a paso 28BYJ-48 5V (solo los motores los drivers los usaremos más adelante)*
 * *4 Tornillos M3 de 10mm*
 
@@ -28,7 +28,7 @@ Dependiendo de la calidad de las piezas impresas este paso te costará más o me
 ## Soporte portapilas-batería
 
 Material necesario:
-* *Pieza battery-bracket*
+* *Pieza "battery-bracket"*
 * *1 Tornillo M3 de 10mm*
   
 >__NOTA: La pieza va colocada al lado contrario donde quedo la parte azul de los motores como puedes ver en las imágenes.__
@@ -50,7 +50,7 @@ Material necesario:
 ## Soporte protoboard 170 puntos
 
 Material necesario:
-* *Pieza board-bracket*
+* *Pieza "board-bracket"*
 * *2 Tornillos M3 de 10mm*
   
 >__NOTA: La pieza se encaja encima del soporte de la placa botonera y lleva otro tornillo en la parte inferior de los motores (Yo no suelo poner este tornillo porque me queda fijo solo con el superior)__
@@ -61,7 +61,7 @@ Material necesario:
 ## Portapilas y bola
 
 Material necesario:
-* *Pieza ballcaster-v2*
+* *Pieza "ballcaster-v2"*
 * *2 Tornillos M3 de 10mm*
 * *Bola o canica de 14mm*
 * *Portapilas AA"
@@ -109,6 +109,8 @@ Material necesario:
 ![17-cableado-drivers.JPG](imagenes/17-cableado-drivers.JPG)
 
 ### Colocación cableado de los drivers-protoboard
+
+Puedes consultar la [guía de cableado en la web escornabot](https://escornabot.com/web/es/content/cableado) si te quedas con dudas
   
 Material necesario:
 * *8 cables arduino macho-hembra de 10cm (me gusta usar de colores pero puedes usar los que quieras)*
@@ -134,4 +136,68 @@ Material necesario:
 >__NOTA: El resultado final debería ser algo así :P__
   
 ![25-drivers-nano-corriente.JPG](imagenes/25-drivers-nano-corriente.JPG)
+  
+## Placa botonera
 
+Material necesario:
+* *Placa botonera (da igual si usas [placa de XDeSIG](https://github.com/pablorubma/escornabot-DIY#212-versi%C3%B3n-de-xdesig) o la [placa totalmente artesanal](https://github.com/pablorubma/escornabot-DIY#211-placa-original-totalmente-artesanal))*
+* *3 Cables arduino macho-hembra de 10cm*
+  
+>__IMPORTANTE: Primero realiza el Test de la botonera, tienes todos los pasos a seguir en la guía [comprobación y configuración de las lecturas de la botonera](https://escornabot.com/web/es/content/comprobacion-y-configuracion-de-las-lecturas-de-botonera)__
+  
+![26-botonera.JPG](imagenes/26-botonera.JPG)
+  
+>__NOTA: El pin cercano al botón azul es GND, lo coloco en el GND de la parte inferior. El pin central es la conexión de datos, lo coloco en el pin A4 (recuerda revisar el código después para ver que tienes configurado el teclado en este pin). El pin exterior es el positivo y lo conectaremos al pin de 5V__
+
+![27-botonera-cableado.JPG](imagenes/27-botonera-cableado.JPG)
+  
+## Buzzer 5V o zumbador
+
+Material necesario:
+* *Buzzer 5V*
+* *2 Cables arduino macho-hembra de 10cm (me gusta usar uno blanco para negativo y uno amarillo para positivo ^_^)*
+  
+>__NOTA: Normalmente el positivo va marcado y suele ser la patilla larga. Yo lo pongo con los cablecicos colgando porque me mola, pero aquí free-style.__
+  
+![30-buzzer.JPG](imagenes/30-buzzer.JPG)
+
+## Ruedas
+
+Material necesario:
+* *Pieza "wheel-l"*
+* *Pieza "wheel-r"*
+* *2 Juntas tóricas 63x60x3mm*
+* *2 Tornillos M3 de 10mm*
+* *2 Tuercas M3*
+  
+>__NOTA: La tuerca debería entrar sin forzar mucho, si ves que no encaja siempre puedes tirar de soldador calentar con cuidado y encajar. Una vez encajada coloca el tornillo sin que asome la punta por la tuerca, así después solo tienes que pretar una vez tengas la rueda montada__
+  
+![31-tuerca-ruedas.JPG](imagenes/31-tuerca-ruedas.JPG)
+  
+>__NOTA: La junta dependiendo del tamaño te costará un poco ponerla pero no hay mayor problema__
+  
+![32-junta-rueda.JPG](imagenes/32-junta-rueda.JPG)
+  
+>__NOTA: La rueda lleva la forma del engancha con el motor. Una vez puesta, mueve la rueda para que el tornillo te quede en la parte inferior y lo puedas ajustar con facilidad.__
+  
+![33-rueda.JPG](imagenes/33-rueda.JPG)  
+![34-rueda-tornillo.JPG](imagenes/34-rueda-tornillo.JPG)  
+  
+## Conexión cables corriente pilas
+  
+Material necesario:
+* *2 Cables arduino macho-macho 10cm*  
+  
+*Lo repito, a mi me gusta montarlo así. Puedes ponerle un interruptor o lo que quieras :P*  
+  
+>__NOTA: Si has dejado tres huecos en la hilera superior como dije al inicio te quedará sitio para poner el positivo en VIN y negativo en GND como puedes ver en la foto.__  
+  
+![35-corriente-pilas.JPG](imagenes/35-corriente-pilas.JPG)  
+  
+## Carga el código Arduino  
+  
+Solo te quedará cargar el código, lo tienes explicado [aquí](https://github.com/pablorubma/escornabot-DIY#5-instalaci%C3%B3n-ide-arduino-y-descarga-de-la-programaci%C3%B3n)  
+  
+# Conecta los cables de corriente con los del portapilas y a JUGAR!!  
+  
+![36-escornabot-montado.JPG](imagenes/36-escornabot-montado.JPG)
