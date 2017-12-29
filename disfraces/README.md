@@ -69,4 +69,12 @@ También este video de Youtube del [CEIP Avion](https://www.youtube.com/watch?v=
 
 O este otro de [Jorge Alba](https://twitter.com/_jorgealba/status/941775330112614401)
 
+# Caretas [Lobotic](https://github.com/lobotic/Escornabot/tree/master/3D) para impresión 3D
+
+[Elefante](https://www.thingiverse.com/thing:2722321)  
+[león](https://www.thingiverse.com/thing:2731368)  
+[Mono](https://www.thingiverse.com/thing:2735957)  
+  
 Prueba, juega, crea y sobre todo…
+  
+# Comparte tu disfraz!
