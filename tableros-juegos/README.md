@@ -11,6 +11,7 @@ Tableros A-3         | Archivo SVG          | Archivo PDF
 ![tablero-condicional.png](imagenes/tablero-condicional.png) | [Tablero condicional formato .SVG](https://drive.google.com/file/d/0B32DBGno8hnocW1KQ2dnUHFKVzg/view) | [Tablero condicional formato .PDF](https://drive.google.com/file/d/0B32DBGno8hnoalZfUDlqZjEya1U/view)  
 ![tablero-folleto.png](imagenes/tablero-folleto.png) | [Tablero folleto formato .SVG](https://drive.google.com/file/d/0B32DBGno8hnoeld1VlFjakIzUFE/view?usp=drive_web) | [Tablero folleto formato .PDF](https://drive.google.com/file/d/0B32DBGno8hnoM1pBOEhCa0lFTjg/view)  
 ![plantilla-triangular.png](imagenes/plantilla-triangular.png)  | [Plantilla triangular formato .SVG](https://drive.google.com/file/d/0B32DBGno8hnoSEkyN3VRM1I0Rmc/view) | [Plantilla triangular formato .PDF](https://drive.google.com/file/d/0B32DBGno8hnod1pXVzdfVG54VnM/view)  
+![Tablero-Cuadrado-Triangulo-Circulo.png](imagenes/Tablero-Cuadrado-Triangulo-Circulo.png)  | [Tablero-Cuadrado-Triangulo-Circulo.svg](archivos/Tablero-Cuadrado-Triangulo-Circulo.svg) | [Tablero-Cuadrado-Triangulo-Circulo.pdf](archivos/Tablero-Cuadrado-Triangulo-Circulo.pdf)  
 
 **Para usar la plantilla triangular debes cambiar la programación para que los grados en los giros se adapten al dibujo, el robot debe ir por las líneas y llegar a los vértices de los triángulos**
   
