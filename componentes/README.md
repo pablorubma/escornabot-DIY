@@ -22,8 +22,9 @@ Voy a compartir donde poder adquirir estos componentes y los días que van tarda
 # Componentes cuerpo
   
 14 días - [Motor 28BYJ-48 + ULN2003 ](https://es.aliexpress.com/item/Frees-hipping-5V-4-Phase-Stepper-Step-Motor-Driver-Board-ULN2003-with-drive-Test-Module-Machinery/32706559510.html?spm=a219c.10010108.1000016.1.72b45076qCDVHw&isOrigTitle=true)  
-18 días - [Arduino NANO Atmega328](https://es.aliexpress.com/item/Nano-V3-ATmega328-CH340G-Micro-USB-Pin-headers-NOT-soldered-Compatible-for-Arduino-Nano-V3-0/32664577152.html?spm=a2g0s.9042311.0.0.h315dx)  
-24 días - [Buzzer 5V](https://es.aliexpress.com/item/Free-Shipping-10pcs-Electromagnetic-buzzer-5V-5V-active-buzzer/635190995.html?spm=a2g0s.9042311.0.0.MlqiAH)  
+28 días - [Junta tórica 65x2,5](https://es.aliexpress.com/item/CS2-5mm-OD-31-35-37-42-43-47-50-58-60-65-68-mm-NBR/32729608793.html?spm=a2g0s.9042311.0.0.jz2Q7D)  
+18 días - [Arduino NANO Atmega328](https://es.aliexpress.com/item/Nano-V3-ATmega328-CH340G-Micro-USB-Pin-headers-NOT-soldered-Compatible-for-Arduino-Nano-V3-0/32664577152.html?spm=a2g0s.9042311.0.0.h315dx)    
+24 días - [Buzzer 5V](https://es.aliexpress.com/item/Free-Shipping-10pcs-Electromagnetic-buzzer-5V-5V-active-buzzer/635190995.html?spm=a2g0s.9042311.0.0.MlqiAH)    
 14 días - [Protoboard 170 puntos](https://es.aliexpress.com/item/Free-Shipping-wholesale-1pcs-lot-SYB-170-Mini-Solderless-Prototype-Experiment-Test-Breadboard-170-Tie-points/32348752975.html?spm=a2g0s.9042311.0.0.p4fgU2)  
 14 días - [Portapilas 4 x Pilas AA](https://es.aliexpress.com/item/MOSUNX-Futural-Digital-2-slot-4-x-AA-Battery-Back-To-Back-Holder-Case-Box-With/32804061860.html?)  
 24 días - [Calbe Arduino 10cm Macho-Hembra](https://es.aliexpress.com/item/40pcs-lot-10cm-40P-2-54mm-dupont-cable-jumper-wire-dupont-line-male-to-female-dupont/32674901253.html?spm=a2g0s.9042311.0.0.nEpZGU)  
