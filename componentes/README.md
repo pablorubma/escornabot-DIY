@@ -29,9 +29,10 @@ Voy a compartir donde poder adquirir estos componentes y los días que van tarda
 14 días - [Portapilas 4 x Pilas AA](https://es.aliexpress.com/item/MOSUNX-Futural-Digital-2-slot-4-x-AA-Battery-Back-To-Back-Holder-Case-Box-With/32804061860.html?)  
 24 días - [Calbe Arduino 10cm Macho-Hembra](https://es.aliexpress.com/item/40pcs-lot-10cm-40P-2-54mm-dupont-cable-jumper-wire-dupont-line-male-to-female-dupont/32674901253.html?spm=a2g0s.9042311.0.0.nEpZGU)  
 24 días - [Cable Arduino 10cm Macho-Macho](https://es.aliexpress.com/item/Free-shipping-Dupont-line-40pcs-10cm-male-to-male-jumper-wire-Dupont-cable-breadboard-cable-jump/32700513558.html?spm=a2g0s.9042311.0.0.MlqiAH)  
-14 días - [Tornillos M3 de 10cm](https://es.aliexpress.com/item/F85-100pcs-Metric-M3-x-10mm-Phillips-Pan-Head-Screws-Stainless-Steel/32599665025.html?spm=a2g0s.9042311.0.0.zUo5xp)  
-14 días - [Tuercas M3 de 10cm](https://es.aliexpress.com/item/100pcs-lot-M3-Screw-Nut-Hex-Nuts-Hexagonal-3mm-For-Coupler-Motor-Mount-Servo-Bracket-Robot/32815312449.html?spm=a2g0s.9042311.0.0.nEpZGU)  
+14 días - [Tornillos M3 de 10mm](https://es.aliexpress.com/item/F85-100pcs-Metric-M3-x-10mm-Phillips-Pan-Head-Screws-Stainless-Steel/32599665025.html?spm=a2g0s.9042311.0.0.zUo5xp)  
+14 días - [Tuercas M3 de 10mm](https://es.aliexpress.com/item/100pcs-lot-M3-Screw-Nut-Hex-Nuts-Hexagonal-3mm-For-Coupler-Motor-Mount-Servo-Bracket-Robot/32815312449.html?spm=a2g0s.9042311.0.0.nEpZGU)  
 18 días - [Bolas 14mm Smile](https://es.aliexpress.com/item/40-pcs-14mm-Mixed-Smiling-Face-Smile-Round-Ball-Spacer-Beads-Plastic-Acrylic-For-DIY-Necklace/32699472196.html?spm=a2g0s.9042311.0.0.p4fgU2)  
+14 días - [Tornillos M3 de 5mm (un poco mas cortos para poner en drivers o botonera)](https://es.aliexpress.com/item/F85-100pcs-Metric-M3x5mm-Phillips-Pan-Head-Screw-for-2-5-HDD-SSD-DVD-ROM-Motherboard/32599458544.html?spm=a2g0s.9042311.0.0.TvbwtS)  
 
 # Componentes para placa botonera
 
@@ -39,4 +40,5 @@ Voy a compartir donde poder adquirir estos componentes y los días que van tarda
 18 días - [Resistencias cerámicas 10k 1/4W 5%](https://es.aliexpress.com/item/1000pcs-Resistors-0-25watt-Carbon-Film-Resistor-10K-10KOHM-0-25W-1-4w-Resistance-SET-5/32424613090.html?spm=a2g0s.9042311.0.0.vco4jq)  
 24 días - [Resistencias cerámicas 22k 1/4W 5%](https://es.aliexpress.com/item/Free-Shipping-1000pcs-Resistors-470-OHM-OHMS-1-4W-5-Carbon-Film/685770481.html?spm=a2g0s.9042311.0.0.MlqiAH)  
 24 días - [Pulsadores 12x12x7,3 con plástico colores (azul, blanco, rojo, verde y amarillo)](https://es.aliexpress.com/item/Free-shipping-100PCS-Tactile-Push-Button-Switch-Momentary-Tact-Cap-12-12-7-3MM-Micro-switch/32638121990.html?spm=a2g0s.9042311.0.0.ASWhGO)  
-28 días - [Pulsadores 12x12x7,3 con plástico colores (azul, blanco, rojo, verde y negro)](https://es.aliexpress.com/item/100pcs-Plastic-Tactile-Switch-PCB-Tact-Push-Button-Momentary-Switch-4-Pins-5-Color-Button-Cap/32826994795.html?spm=a2g0s.9042311.0.0.w631hd)
+28 días - [Pulsadores 12x12x7,3 con plástico colores (azul, blanco, rojo, verde y negro)](https://es.aliexpress.com/item/100pcs-Plastic-Tactile-Switch-PCB-Tact-Push-Button-Momentary-Switch-4-Pins-5-Color-Button-Cap/32826994795.html?spm=a2g0s.9042311.0.0.w631hd)  
+x días - [Pines acodados para los tres conectores](https://es.aliexpress.com/item/Hot-Sale-10pcs-40-Pin-1x40-Single-Row-Male-2-54mm-Breakable-Pin-Header-Right-Angle/32774385491.html?spm=a2g0s.9042311.0.0.i5VZz6)
