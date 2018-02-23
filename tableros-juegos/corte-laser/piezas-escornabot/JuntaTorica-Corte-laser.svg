@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100.26509mm"
+   height="100.26511mm"
+   viewBox="0 0 100.26509 100.26511"
+   version="1.1"
+   id="svg5021"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="JuntaTorica-Corte-laser.svg">
+  <defs
+     id="defs5015" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-76.160919"
+     inkscape:cy="147.33479"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5018">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(186.5875,-105.62465)">
+    <circle
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.70000005;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.9000001;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path10021"
+       cx="-136.48077"
+       cy="156.06137"
+       r="31.561012" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff0000;stroke-width:0.26499999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m -186.455,105.75715 v 25.00003 h 5.00021 v -4.68551 c 0,-0.1746 0.43467,-0.31522 0.97462,-0.31522 h 3.05046 c 0.53994,0 0.97461,0.14062 0.97461,0.31522 v 14.36967 c 0,0.17461 -0.43467,0.31523 -0.97461,0.31523 h -3.05046 c -0.53995,0 -0.97462,-0.14062 -0.97462,-0.31523 v -4.68447 h -5.00021 v 40.00015 h 5.00021 v -4.685 c 0,-0.1746 0.43467,-0.31522 0.97462,-0.31522 h 3.05046 c 0.53994,0 0.97461,0.14062 0.97461,0.31522 v 14.36968 c 0,0.1746 -0.43467,0.3147 -0.97461,0.3147 h -3.05046 c -0.53995,0 -0.97462,-0.1401 -0.97462,-0.3147 v -4.68447 h -5.00021 v 25.00003 h 25.00002 v -5.00023 h -4.02559 c -0.53995,0 -0.97462,-0.1406 -0.97462,-0.31523 v -4.36975 c 0,-0.1746 0.43467,-0.31522 0.97462,-0.31522 h 13.05139 c 0.53995,0 0.97514,0.14062 0.97514,0.31522 v 4.36975 c 0,0.17463 -0.43519,0.31523 -0.97514,0.31523 h -4.02559 v 5.00023 h 40.00014 v -5.00023 h -4.02611 c -0.53993,0 -0.97461,-0.1406 -0.97461,-0.31523 v -4.36975 c 0,-0.1746 0.43468,-0.31522 0.97461,-0.31522 h 13.05089 c 0.53994,0 0.97461,0.14062 0.97461,0.31522 v 4.36975 c 0,0.17463 -0.43467,0.31523 -0.97461,0.31523 h -4.02508 v 5.00023 h 25.000023 v -25.00003 h -4.99969 v 4.68447 c 0,0.1746 -0.43467,0.3147 -0.97461,0.3147 h -3.05149 c -0.53995,0 -0.97463,-0.1401 -0.97463,-0.3147 v -14.36968 c 0,-0.1746 0.43468,-0.31522 0.97463,-0.31522 h 3.05149 c 0.53994,0 0.97461,0.14062 0.97461,0.31522 v 4.685 h 4.99969 v -40.00015 h -4.99969 v 4.68447 c 0,0.17461 -0.43467,0.31523 -0.97461,0.31523 h -3.05149 c -0.53995,0 -0.97463,-0.14062 -0.97463,-0.31523 v -14.36967 c 0,-0.1746 0.43468,-0.31522 0.97463,-0.31522 h 3.05149 c 0.53994,0 0.97461,0.14062 0.97461,0.31522 v 4.68551 h 4.99969 v -25.00003 h -25.000023 v 5.00021 h 4.02508 c 0.53994,0 0.97461,0.14011 0.97461,0.31471 v 4.36925 c 0,0.1746 -0.43467,0.31522 -0.97461,0.31522 h -13.05089 c -0.53993,0 -0.97461,-0.14062 -0.97461,-0.31522 v -4.36925 c 0,-0.1746 0.43468,-0.31471 0.97461,-0.31471 h 4.02611 v -5.00021 h -40.00014 v 5.00021 h 4.02559 c 0.53995,0 0.97514,0.14011 0.97514,0.31471 v 4.36925 c 0,0.1746 -0.43519,0.31522 -0.97514,0.31522 h -13.05139 c -0.53995,0 -0.97462,-0.14062 -0.97462,-0.31522 v -4.36925 c 0,-0.1746 0.43467,-0.31471 0.97462,-0.31471 h 4.02559 v -5.00021 z"
+       id="path4539-5-1-3-8-8-6" />
+  </g>
+</svg>
