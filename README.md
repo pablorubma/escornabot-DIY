@@ -34,7 +34,7 @@ Sujeción interruptor|![Addon-SwitchHolder.stl](imagenes/Addon-SwitchHolder.png)
   
   
 # 2. Componentes Electrónicos
-  
+  
 ## 2.1. Placa Botonera 
 
 Es la parte más problemática y tienes dos opciones:
@@ -42,7 +42,7 @@ Es la parte más problemática y tienes dos opciones:
   
 ### 2.1.1. Placa original totalmente artesanal
 
-Tienes todos los detalles en la web del proyecto [pincha aquí](https://escornabot.com/web/es/content/botonera-audaciuso) 
+Tienes todos los detalles en la web del proyecto [pincha aquí](https://escornabot.com/web/es/content/botonera-audacius) 
 
 ![Placa Original](https://escornabot.com/web/sites/default/files/node_attachs/keypafin_0.png)
 
